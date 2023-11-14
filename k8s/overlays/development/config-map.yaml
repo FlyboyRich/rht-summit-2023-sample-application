@@ -2,9 +2,10 @@ apiVersion: v1
 data:
   images.json: |-
     [
-      "https://i.imgflip.com/7jqevq.jpg",
-      "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      ***"https://i.imgflip.com/7jqevq.jpg",
+      ***"https://i.imgflip.com/7jqekl.jpg",
+      ***"https://i.imgflip.com/7jmwjs.jpg"
+      "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.surfertoday.com%2Fimages%2Fstories%2Fbeach-sunset.jpg&tbnid=GAexXD7KSvTcZM&vet=12ahUKEwjr65_6oMSCAxV4MWIAHUiKAI0QMygFegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.surfertoday.com%2Fsurfing%2Fa-tribute-to-the-beach&docid=qG1j55Y9UE0M-M&w=750&h=500&q=beach&ved=2ahUKEwjr65_6oMSCAxV4MWIAHUiKAI0QMygFegQIARB_"
     ]
 kind: ConfigMap
 metadata:
