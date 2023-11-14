@@ -2,10 +2,9 @@ apiVersion: v1
 data:
   images.json: |-
     [
-      ***"https://i.imgflip.com/7jqevq.jpg",
-      ***"https://i.imgflip.com/7jqekl.jpg",
-      ***"https://i.imgflip.com/7jmwjs.jpg"
-      "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.surfertoday.com%2Fimages%2Fstories%2Fbeach-sunset.jpg&tbnid=GAexXD7KSvTcZM&vet=12ahUKEwjr65_6oMSCAxV4MWIAHUiKAI0QMygFegQIARB_..i&imgrefurl=https%3A%2F%2Fwww.surfertoday.com%2Fsurfing%2Fa-tribute-to-the-beach&docid=qG1j55Y9UE0M-M&w=750&h=500&q=beach&ved=2ahUKEwjr65_6oMSCAxV4MWIAHUiKAI0QMygFegQIARB_"
+      "https://www.gohawaii.com/sites/default/files/hero-unit-images/11500_mauibeaches.jpg"
+      "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRBsLrzyprJtQa370UAJk4sPUEKKBe9sJoqcCRQ8YK1jQ51MjlHmQ-6gDZe6lV6cuuZPMxyk0o85ONY7x4BzJY"
+      "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQj03S23J2gCxSsTwyaCeMw3u6-B36vGDZ9voA0v5lsuafmqV2LHkxjhKJsLg_deStIwWl1yloRGTA4VLxtrxQ"
     ]
 kind: ConfigMap
 metadata:
