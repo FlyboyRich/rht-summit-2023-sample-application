@@ -2,6 +2,8 @@ apiVersion: v1
 data:
   images.json: |-
     [
+      "https://www.gohawaii.com/sites/default/files/hero-unit-images/11500_mauibeaches.jpg"
+      "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcRBsLrzyprJtQa370UAJk4sPUEKKBe9sJoqcCRQ8YK1jQ51MjlHmQ-6gDZe6lV6cuuZPMxyk0o85ONY7x4BzJY"
       "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQj03S23J2gCxSsTwyaCeMw3u6-B36vGDZ9voA0v5lsuafmqV2LHkxjhKJsLg_deStIwWl1yloRGTA4VLxtrxQ"
     ]
 kind: ConfigMap
